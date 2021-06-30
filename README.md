@@ -15,10 +15,10 @@ tracing graphic lines hence assisting the driver based on the graphics thus impl
 # Proposed System Model
 
 The proposed system does not require any extra information such as lane width and time to lane crossing. Concepts such as 
-1.Hough Transform 
-2.Gaussian Blur 
-3.Bitwise AND 
-4.Grayscale image of Image Processing are used.
+1. Hough Transform 
+2. Gaussian Blur 
+3. Bitwise AND 
+4. Grayscale image of Image Processing are used.
 
 # Software Used
 
