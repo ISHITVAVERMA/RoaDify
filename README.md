@@ -12,6 +12,7 @@ propose a technique for lane detection, based on image processing, which allows 
 converting the given image to gray scale image and then tracing the white lines of lanes and getting to a point where maximum of intersections occur and therefore
 tracing graphic lines hence assisting the driver based on the graphics thus implemented.
 
+# Proposed System Model
 
 The proposed system does not require any extra information such as lane width and time to lane crossing. Concepts such as 
 1.Hough Transform 
@@ -19,7 +20,14 @@ The proposed system does not require any extra information such as lane width an
 3.Bitwise AND 
 4.Grayscale image of Image Processing are used.
 
-Software designed in python, numpy and matplotlib libraries are used.
+# Software Used
 
+Software designed in :
+1. Python 
+2. Open CV2
+3. Numpy and 
+4. Matplotlib libraries are used.
+
+# Usage 
 This Project is made as a part of my Project for the Image processing subject that I studied I my college
 
