@@ -32,6 +32,19 @@ Software designed in :
 This Project is made as a part of my Project for the Image processing subject that I studied I my college
 
 # Running Procedure
+```
+pip install numpy
+```
+```
+pip3 install opencv-python
+```
+```
+python -m pip install -U pip
+python -m pip install -U matplotlib
+```
+```
+python3 lane.py
+```
 
 
 # Contributors
