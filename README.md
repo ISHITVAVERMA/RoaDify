@@ -28,12 +28,15 @@ Software designed in :
 3. Numpy and 
 4. Matplotlib libraries are used.
 
-# Usage 
+# Project Aim and Vision
 This Project is made as a part of my Project for the Image processing subject that I studied I my college
+
+# Running Procedure
+
 
 # Contributors
 <a href = "https://github.com/ISHITVAVERMA">1. Ishitva Verma </a></br>
 <a href = "https://github.com/Akash708231">2. Akash Butar </a></br>
 
 # Output
-[]!(Output.png)
+![](Output.png)
