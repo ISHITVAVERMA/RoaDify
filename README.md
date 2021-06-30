@@ -32,4 +32,5 @@ Software designed in :
 This Project is made as a part of my Project for the Image processing subject that I studied I my college
 
 # Contributors
-<a href = "https://github.com/ISHITVAVERMA">1. Ishitva Verma </a>
+<a href = "https://github.com/ISHITVAVERMA">1. Ishitva Verma </a></br>
+<a href = "https://github.com/Akash708231">1. Ishitva Verma </a></br>
