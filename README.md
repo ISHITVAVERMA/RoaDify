@@ -33,4 +33,4 @@ This Project is made as a part of my Project for the Image processing subject th
 
 # Contributors
 <a href = "https://github.com/ISHITVAVERMA">1. Ishitva Verma </a></br>
-<a href = "https://github.com/Akash708231">1. Ishitva Verma </a></br>
+<a href = "https://github.com/Akash708231">2. Akash Butar </a></br>
