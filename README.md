@@ -18,7 +18,8 @@ The proposed system does not require any extra information such as lane width an
 1. Hough Transform 
 2. Gaussian Blur 
 3. Bitwise AND 
-4. Grayscale image of Image Processing are used.
+4. Canny Edge Detection
+5. Grayscale image of Image Processing are used.
 
 # Software Used
 
