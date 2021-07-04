@@ -54,3 +54,7 @@ python3 lane.py
 
 # Output
 ![](Output.png)
+
+<p align="center">
+	Made with :heart:
+</p>
